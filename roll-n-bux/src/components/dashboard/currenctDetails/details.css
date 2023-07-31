@@ -1,0 +1,31 @@
+.currencyDetails {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.crypto-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.crypto-table th,
+.crypto-table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.crypto-table th {
+  background-color: #733636;
+  color: #fff;
+}
+
+.crypto-table tr:nth-child(odd) {
+  background-color: #b9a1a1;
+}
+
+.crypto-table tr:hover {
+  background-color: #ffb2b2;
+}

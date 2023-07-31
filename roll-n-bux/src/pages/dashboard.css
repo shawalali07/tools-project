@@ -1,0 +1,45 @@
+#chart {
+  height: 556px;
+}
+.dashboard {
+  margin-left: 231px;
+
+  overflow: hidden; /* background: #abbaab;
+  background: -webkit-linear-gradient(to right, #ffffff, #abbaab);
+  background: linear-gradient(to right, #ffffff, #abbaab); */
+
+  /* background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000); */
+
+  /* background: #304352;
+  background: -webkit-linear-gradient(to right, #d7d2cc, #304352);
+  background: linear-gradient(to right, #d7d2cc, #304352); */
+
+  /* background: #616161;
+  background: -webkit-linear-gradient(to right, #9bc5c3, #616161);
+  background: linear-gradient(to right, #9bc5c3, #616161); */
+
+  background: #5d4157;
+  background: -webkit-linear-gradient(to right, #a8caba, #5d4157);
+  background: linear-gradient(to right, #a8caba, #5d4157);
+
+  /* 
+  background: #403b4a;
+  background: -webkit-linear-gradient(to right, #e7e9bb, #403b4a);
+  background: linear-gradient(to right, #e7e9bb, #403b4a); */
+
+  /* 
+  background: #bbd2c5;
+  background: -webkit-linear-gradient(to right, #536976, #bbd2c5);
+  background: linear-gradient(to right, #536976, #bbd2c5); */
+
+  /* 
+  background: #403b4a;
+  background: -webkit-linear-gradient(to right, #e7e9bb, #403b4a);
+  background: linear-gradient(to right, #e7e9bb, #403b4a); */
+  /* 
+  background: #232526;
+  background: -webkit-linear-gradient(to right, #414345, #232526);
+  background: linear-gradient(to right, #414345, #232526); */
+}

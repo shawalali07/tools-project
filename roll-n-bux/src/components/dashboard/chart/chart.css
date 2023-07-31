@@ -1,0 +1,32 @@
+.apexcharts-candlestick-series path:last-child {
+  /* filter: blur(4px); */
+  /* opacity: 0.5; */
+  position: relative;
+  stroke-width: 2px;
+  stroke-dasharray: 10, 14; /* Dotted border */
+  fill: transparent;
+}
+
+.chartHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh;
+  flex-direction: column;
+  font-weight: 600;
+}
+
+.chartHeader-crypto {
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  /* color: #fff; */
+}
+
+.chartHeader > div > p {
+  display: flex;
+  gap: 3px;
+  /* color: #fff; */
+}
